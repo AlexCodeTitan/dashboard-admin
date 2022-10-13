@@ -1,1 +1,1 @@
-https://gleaming-dragon-3da17c.netlify.app/customers
+https://gleaming-dragon-3da17c.netlify.app
